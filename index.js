@@ -11,6 +11,6 @@ module.exports = {
     'selector-max-id': 0,
     'selector-max-type': 0,
     'selector-max-universal': 0,
-    'selector-class-pattern': [2, "^[a-z]+([A-Z][a-z]+)*$"]
+    'selector-class-pattern': "^[a-z]+([A-Z][a-z]+)*$"
   }
 };
