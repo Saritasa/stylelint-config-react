@@ -3,11 +3,11 @@ module.exports = {
     'stylelint-config-saritasa-base'
   ],
   rules: {
-    'selector-max-specificity': ['0,2,1', {
+    'selector-max-specificity': ['0,3,1', {
       ignoreSelectors: [':global']
     }],
     'selector-attribute-operator-whitelist': [],
-    'selector-max-class': 1,
+    'selector-max-class': 2,
     'selector-max-id': 0,
     'selector-max-type': 0,
     'selector-max-universal': 0,
