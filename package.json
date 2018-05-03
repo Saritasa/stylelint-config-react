@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-saritasa-react",
+  "name": "@saritasa/stylelint-config-react",
   "version": "0.0.7",
   "description": "Saritasa's shareable config for stylelint in react projects",
   "main": "index.js",
@@ -13,17 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/saritasa/stylelint-config-saritasa-react.git"
+    "url": "https://github.com/saritasa/stylelint-config-react.git"
   },
   "author": "Konstantin Petryaev <konstantin.petryaev@saritasa.com>",
   "license": "MIT",
   "peerDependencies": {
-    "stylelint": "^8.2.0",
-    "stylelint-declaration-use-variable": "^1.6.0",
-    "stylelint-no-unsupported-browser-features": "^1.0.1",
-    "stylelint-order": "^0.7.0"
+    "stylelint": ">= 8.2.0"
   },
   "dependencies": {
-    "stylelint-config-saritasa-base": "0.0.1"
+    "@saritasa/stylelint-config-base": "0.0.2"
   }
 }

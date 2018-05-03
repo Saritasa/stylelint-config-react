@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    'stylelint-config-saritasa-base'
+    '@saritasa/stylelint-config-base'
   ],
   rules: {
     'selector-max-specificity': ['0,3,1', {
