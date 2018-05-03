@@ -21,6 +21,6 @@
     "stylelint": ">= 8.2.0"
   },
   "dependencies": {
-    "@saritasa/stylelint-config-base": "0.0.2"
+    "@saritasa/stylelint-config-base": "0.0.3"
   }
 }

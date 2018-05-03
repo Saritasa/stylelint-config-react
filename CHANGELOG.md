@@ -1,3 +1,6 @@
+### 0.0.9
+Improve dependencies' section in package.json.
+
 ### 0.0.8
 Make package to be scoped.
 
