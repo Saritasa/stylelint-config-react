@@ -1,3 +1,6 @@
+### 0.0.10
+Improve readme to have clean install.
+
 ### 0.0.9
 Improve dependencies' section in package.json.
 
