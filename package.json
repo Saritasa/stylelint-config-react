@@ -1,6 +1,6 @@
 {
   "name": "@saritasa/stylelint-config-react",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "Saritasa's shareable config for stylelint in react projects",
   "main": "index.js",
   "scripts": {
