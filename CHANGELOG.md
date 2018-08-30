@@ -1,3 +1,6 @@
+### 1.0.0
+Change classname pattern from camelCase to kebab-case.
+
 ### 0.0.10
 Improve readme to have clean install.
 
