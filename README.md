@@ -1,5 +1,7 @@
 # @saritasa/stylelint-config-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Saritasa/stylelint-config-react.svg)](https://greenkeeper.io/)
+
 Saritasa's shareable config for [stylelint](https://github.com/stylelint/stylelint) on react projects.
 
 1. Install peer dependencies and config itself.
